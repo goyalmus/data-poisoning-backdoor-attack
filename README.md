@@ -1,4 +1,4 @@
-## Data Poisoning & Backdoor Attacks — Academic Project
+## Data Poisoning & Backdoor Attacks
 This repository contains my implementation and experimentation on data poisoning and backdoor attacks in machine learning models.
 The work was developed as part of my coursework on machine learning security at Georgia Tech, and reflects my personal exploration of adversarial vulnerabilities in modern ML systems.
 
@@ -14,3 +14,4 @@ The code is not intended for:
 1. Attacking real-world systems
 2. Causing harm or data manipulation
 3. Any malicious or unethical activity
+
